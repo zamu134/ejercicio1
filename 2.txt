@@ -1,0 +1,5 @@
+2-a la hora de ejecución aparecen ventanas en 
+las cuales se ingresan el numero entero a sumar
+
+la diferencia es que en este se interactúa en 
+ventanas en el cual se ingresa lo que se requiere para dicha suma.

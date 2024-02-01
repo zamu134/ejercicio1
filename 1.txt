@@ -1,0 +1,6 @@
+1- daba en error en Date debido a que faltaba dicho paquete.
+solo se le ha agregado lo que es un paquete el cual es: import java.util.Date;
+
+la salida del programa es:
+Hola, hoy es: 
+Wed Jan 31 19:15:39 CST 2024
